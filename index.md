@@ -1,4 +1,7 @@
 
+<script src="navbar.js"></script>
+
+
 # UD01 - Introdución as Redes Locais 
 
 ## Índice
@@ -9,11 +12,11 @@
 - [1.1.3. Concepto de rede](1.1.3._Concepto_de_rede.md)
 
 ### 1.2. Sistemas de numeración
-- [1.2.01. Introdución](1.2.01. Introdución)
-- [1.2.02. Sistemas de numeración posicionais](1.2.02. Sistemas de numeración posicionais)
-- [1.2.03. Sistema decimal](1.2.03. Sistema decimal)
-- [1.2.04. Sistema binario](1.2.04. Sistema binario)
-- [1.2.05. De binario a decimal](1.2.05. De binario a decimal)
+- [1.2.1. Introdución](1.2.1._Introdución)
+- [1.2.2. Sistemas de numeración posicionais](1.2.2._Sistemas_de_numeracion_posicionais)
+- [1.2.3. Sistema decimal](1.2.3._Sistema_decimal)
+- [1.2.4. Sistema binario](1.2.4._Sistema_binario)
+- [1.2.5. De binario a decimal](1.2.5._De_binario_a_decimal)
 - [1.2.06. De decimal a binario](1.2.06. De decimal a binario)
 - [1.2.07. Sistema hexadecimal](1.2.07. Sistema hexadecimal)
 - [1.2.08. De binario a hexadecimal](1.2.08. De binario a hexadecimal)
