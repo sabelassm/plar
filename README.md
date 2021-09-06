@@ -1,6 +1,3 @@
-
-<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-
 # UD01 - Introdución as Redes Locais 
 
 ## Índice
