@@ -1,7 +1,4 @@
 
-<script src="navbar.js"></script>
-
-
 # UD01 - Introdución as Redes Locais 
 
 ## Índice
