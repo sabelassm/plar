@@ -1,6 +1,6 @@
-<div class="container-lg px-3 my-5 markdown-body">
-::before
-<header>
+<div id="app">
+<div class="theme-container">
+<header class="navbar">
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -42,6 +42,8 @@
 
 </header>
   </div>
+    </div>
+
 # UD01 - Introdución as Redes Locais 
 
 ## Índice
