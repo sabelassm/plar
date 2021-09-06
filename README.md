@@ -1,9 +1,13 @@
 
-<script>
-  window.$docsify = {
-    loadNavbar: true
-  }
-</script>
+---
+title: "Escribe tu titulo"
+author: "Escribe tu nombre"
+date: "Escribe la fecha"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 
 # UD01 - Introdución as Redes Locais 
