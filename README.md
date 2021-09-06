@@ -1,4 +1,5 @@
-<div id="app">
+<body>
+<div class="container-lg px-3 my-5 markdown-body">
 <div class="theme-container">
 <header class="navbar">
 
