@@ -3,9 +3,9 @@
 ## Índice
 
 ### 1.1. Introdución
-- [1.1.01. Conceptos da comunicación](1.1.01.-Conceptos-da-comunicacion.md)
-- [1.1.02. Elementos dun sistema de comunicación](1.1.2._Elementos_dun_sistema_de_comunicacion)
-- [1.1.03. Concepto de rede](1.1.3._Concepto_de_rede.md)
+- [1.1.1. Conceptos da comunicación](1.1.1._Conceptos-da-comunicacion.md)
+- [1.1.2. Elementos dun sistema de comunicación](1.1.2._Elementos_dun_sistema_de_comunicacion)
+- [1.1.3. Concepto de rede](1.1.3._Concepto_de_rede.md)
 
 ### 1.2. Sistemas de numeración
 - [1.2.01. Introdución](1.2.01. Introdución)
