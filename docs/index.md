@@ -4,7 +4,7 @@
  menus: header
 ---
 
-# UD01 - Introdución as Redes Locaiss
+# UD01 - Introdución as Redes Locais
 
 ## Índice
 
